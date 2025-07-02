@@ -4,9 +4,15 @@
 }
 
 .linkLink {
-    font-size: 2rem;
+    font-size: 36px;
 }
 
 .linkLink:hover {
-    color:lawngreen
+    color:rgb(80, 196, 142)
+}
+
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
